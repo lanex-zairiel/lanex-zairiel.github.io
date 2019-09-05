@@ -13,8 +13,8 @@
 	.tip_avatar_con { background: url('../images/zai.jpg') no-repeat 20% center; background-size: 365px 480px;}
 	.tip_right { width: 45%; height: 460px; position: absolute; right: 0; top: 50%; margin: -230px 0 0; }
 	.info_content.over .desc { height: 0; margin: 0; }
-	.info_content.over .s5.curr { height: 474px }
-	.info_content.over .s4.curr { padding-top: 100px; height: 374px }
+	.info_content.over .s5.curr { height: 200px }
+	.info_content.over .s4.curr { padding-top: 100px; height: 100px }
 	.info_content.over .s3.curr { padding-top: 200px; height: 274px }
 	.info_content.over .s2.curr { padding-top: 300px; height: 174px }
 	.info_content.over .s1.curr { padding-top: 400px; height: 74px }
